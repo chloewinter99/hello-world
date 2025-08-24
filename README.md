@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
+I am currently working in Toronto as a Senior Analyst at Scotiabank. I studied accounting and finance at the University of Toronto, earning both my Bachelor of Commerce and Master of Management & Professional Accounting with high distinction. In my role, I work with financial reporting, analysis, and automation, which has strengthened my problem-solving skills and introduced me to tools like Python and advanced Excel. These experiences sparked my interest in using data to uncover patterns, improve decisions, and create practical solutions. I am now eager to transfer my skills into the field of data science and further develop my abilities in data analysis, machine learning, and technology.
